@@ -8,35 +8,36 @@ When I am not optimizing cloud-deployed enterprise solutions, I am sourcing comp
 
 ### 💼 Professional Engineering Execution
 
-**AI Engineer | HR Staffing LLC (USA)** *(Oct 2025 - Present)*
-* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, reducing manual call routing by 25% across Real Estate, Healthcare, HVAC, and Education sectors.
-* **Agentic Workflows:** Engineered autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI, decreasing task execution latency by 30% for enterprise clients.
-* **Pipeline Integration:** Designed end-to-end API pipelines linking Voice AI directly to existing CRMs, handling 1000+ autonomous interactions per month.
+**[AI Engineer | HR Staffing LLC (USA)](https://sai.fhaida.com/#experience-3)** *(Oct 2025 - Present)*
+* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, reducing manual call routing by [X]% across Real Estate, Healthcare, HVAC, and Education sectors.
+* **Agentic Workflows:** Engineered autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI, decreasing task execution latency by [X]% for enterprise clients.
+* **Pipeline Integration:** Designed end-to-end API pipelines linking Voice AI directly to existing CRMs, handling [X] autonomous interactions per month.
 
-**Full-Stack Developer Intern | Solvitarka Solutions Pvt Ltd** *(May 2024 - Oct 2024)*
-* **Enterprise Architecture:** Developed robust Next.js and Flutter applications, optimizing API payload responses by 20% for enterprise clients.
-* **Semantic Search:** Engineered LLM-driven semantic retrieval systems utilizing LangChain, improving data retrieval speeds by 30% over legacy keyword search.
-
----
-
-### 🚀 Production & Flagship Architecture (Pinned Repositories)
-
-* **RAG Assessment Recommender:** Engineered a full-stack context-aware pipeline utilizing FastAPI, pgvector, Gemini, and LangChain for highly optimized retrieval.
-* **Agentic Real Estate CRM (BoloBoss):** Built a Flutter & Node.js platform featuring ML-based property mapping, which increased conversion rates by 30%.
-* **Voice-Based Retail AI:** Deployed a multilingual Flutter assistant utilizing on-device LLMs and OCR, successfully reducing manual data entry by 60%.
-* **Post4Planet:** Led the development of an AI-powered sustainability optimization platform for postal logistics, winning the Smart India Hackathon.
-* **NotebookLM Auto-Sync:** Developed a Chrome extension with 150+ active users, featuring passive background DOM monitoring and smart rate-limiting.
-* **UCHIT - College Ranking Engine:** Designed a multi-criteria decision-making platform leveraging the NSGA-II algorithm (Next.js + FastAPI).
-* **Universal Sensor-as-a-Service API:** Built an on-device HTTP server exposing local sensors with automated Swagger documentation.
+**[Full-Stack Developer Intern | Solvitarka Solutions Pvt Ltd](https://sai.fhaida.com/#experience-2)** *(May 2024 - Oct 2024)*
+* **Enterprise Architecture:** Developed robust Next.js and Flutter applications, optimizing API payload responses by [X]% for enterprise clients.
+* **Semantic Search:** Engineered LLM-driven semantic retrieval systems utilizing LangChain, improving data retrieval speeds by [X]% over legacy keyword search.
 
 ---
 
-### 🏆 Research, Grants & Competitive Achievements
+### 🚀 Production & Flagship Architecture
 
-* **Publications:** *Multi-Modal Wearable System for Physiological Distress Monitoring*, accepted for IEEE Xplore (MLBSS-2025).
-* **National Hackathon Winner:** 1st Prize at Smart India Hackathon 2024 (₹1 Lakh prize).
-* **Startup & Innovation Grants:** Top 10 in NASSCOM ThingQbator (₹5 Lakh Grant) for AI-based retail automation.
-* **Competitive Coding:** 1st Prize at Codeiam Hackathon (Google Sheets API CRM automation).
+* **[NotebookLM Auto-Sync (Chrome Extension)](https://chromewebstore.google.com/detail/notebooklm-auto-sync/lfccdlmdhaolapoohbnbpolkobkgkfnn?pli=1):** Developed a live Chrome extension with 150+ active users, featuring passive background DOM monitoring and smart rate-limiting.
+* **[Post4Planet](https://sai.fhaida.com/#project-5):** Led the development of an AI-powered sustainability optimization platform for postal logistics, winning the Smart India Hackathon.
+* **[Agentic Real Estate CRM](https://sai.fhaida.com/#project-2):** Built a Flutter & Node.js platform featuring ML-based property mapping, which increased conversion rates by 30%.
+* **[Voice-Based Retail AI](https://sai.fhaida.com/#project-1):** Deployed a multilingual Flutter assistant utilizing on-device LLMs and OCR, successfully reducing manual data entry by 60%.
+* **[RAG Assessment Recommender](https://sai.fhaida.com/#project-18):** Engineered a full-stack context-aware pipeline utilizing FastAPI, pgvector, Gemini, and LangChain for highly optimized retrieval.
+* **[UCHIT - College Ranking Engine](https://sai.fhaida.com/#project-18):** Designed a multi-criteria decision-making platform leveraging the NSGA-II algorithm (Next.js + FastAPI).
+* **[Universal Sensor-as-a-Service API](https://sai.fhaida.com/#project-13):** Built an on-device HTTP server exposing local sensors with automated Swagger documentation.
+
+---
+
+### 🏆 Research, Grants & Leadership
+
+* **Publications:** *[Multi-Modal Wearable System for Physiological Distress Monitoring](https://sai.fhaida.com/#publication-1)*, accepted for IEEE Xplore (MLBSS-2025).
+* **National Hackathon Winner:** [1st Prize at Smart India Hackathon 2024](https://sai.fhaida.com/#achievement-3) (₹1 Lakh prize).
+* **Startup Grants:** [Top 10 in NASSCOM ThingQbator](https://sai.fhaida.com/#achievement-1) (₹5 Lakh Grant) & [UDAAN Business Plan Winner](https://sai.fhaida.com/#achievement-2).
+* **Competitive Coding:** [1st Prize at Codeiam Hackathon](https://sai.fhaida.com/#achievement-5) (Google Sheets API CRM automation).
+* **Leadership:** [President of ThingQbator](https://sai.fhaida.com/#leadership-2) (Hosted 5 NASSCOM demo days) & [General Secretary of S&T Council](https://sai.fhaida.com/#leadership-1).
 
 ---
 
