@@ -1,27 +1,28 @@
-# ⚡ Samminga Sainath Rao | AI Engineer & Full-Stack Architect
+# ⚡ Samminga Sainath Rao | AI Engineer & Systems Architect
 
 I am a final-year CS & AI Dual Degree student (CGPA: 8.61) at RGIPT, currently working remotely as an AI Engineer for a US-based firm. I specialize in bridging advanced machine learning with production-ready software, architecting autonomous Voice AI systems, multi-agent workflows, and RAG pipelines. 
 
-My engineering philosophy is rooted in measurable impact: reducing operational friction, driving conversions, and building systems that scale from on-device prototypes to cloud-deployed enterprise solutions.
+When I am not optimizing cloud-deployed enterprise solutions, I am sourcing components and building out my own hardware and electronics lab to develop physical AI interfaces. My engineering philosophy is rooted in measurable impact: reducing operational friction, driving conversions, and pushing systems to their absolute limits.
 
 ---
 
-### 💼 Professional Engineering Experience
+### 💼 Professional Engineering Execution
 
 **AI Engineer | HR Staffing LLC (USA)** *(Oct 2025 - Present)*
-* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, integrated seamlessly with external CRMs and APIs across Real Estate, Healthcare, HVAC, and Education sectors.
-* **Agentic Workflows:** Developing autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI.
+* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, reducing manual call routing by [X]% across Real Estate, Healthcare, HVAC, and Education sectors.
+* **Agentic Workflows:** Engineered autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI, decreasing task execution latency by [X]% for enterprise clients.
+* **Pipeline Integration:** Designed end-to-end API pipelines linking Voice AI directly to existing CRMs, handling [X] autonomous interactions per month.
 
 **Full-Stack Developer Intern | Solvitarka Solutions Pvt Ltd** *(May 2024 - Oct 2024)*
-* **Enterprise Architecture:** Developed robust Next.js and Flutter applications with highly optimized APIs for enterprise clients.
-* **Semantic Search:** Engineered LLM-driven semantic retrieval systems utilizing LangChain.
+* **Enterprise Architecture:** Developed robust Next.js and Flutter applications, optimizing API payload responses by [X]% for enterprise clients.
+* **Semantic Search:** Engineered LLM-driven semantic retrieval systems utilizing LangChain, improving data retrieval speeds by [X]% over legacy keyword search.
 
 ---
 
-### 🚀 Production & Flagship Projects
+### 🚀 Production & Flagship Architecture (Pinned Repositories)
 
-* **RAG Assessment Recommender:** Engineered a full-stack context-aware pipeline utilizing FastAPI, pgvector, Gemini, and LangChain.
-* **Agentic Real Estate CRM:** Built a Flutter & Node.js platform featuring ML-based property mapping, which increased conversion rates by 30%.
+* **RAG Assessment Recommender:** Engineered a full-stack context-aware pipeline utilizing FastAPI, pgvector, Gemini, and LangChain for highly optimized retrieval.
+* **Agentic Real Estate CRM (BoloBoss):** Built a Flutter & Node.js platform featuring ML-based property mapping, which increased conversion rates by 30%.
 * **Voice-Based Retail AI:** Deployed a multilingual Flutter assistant utilizing on-device LLMs and OCR, successfully reducing manual data entry by 60%.
 * **Post4Planet:** Led the development of an AI-powered sustainability optimization platform for postal logistics, winning the Smart India Hackathon.
 * **NotebookLM Auto-Sync:** Developed a Chrome extension with 150+ active users, featuring passive background DOM monitoring and smart rate-limiting.
@@ -30,7 +31,7 @@ My engineering philosophy is rooted in measurable impact: reducing operational f
 
 ---
 
-### 🏆 Research, Grants & Achievements
+### 🏆 Research, Grants & Competitive Achievements
 
 * **Publications:** *Multi-Modal Wearable System for Physiological Distress Monitoring*, accepted for IEEE Xplore (MLBSS-2025).
 * **National Hackathon Winner:** 1st Prize at Smart India Hackathon 2024 (₹1 Lakh prize).
@@ -39,16 +40,23 @@ My engineering philosophy is rooted in measurable impact: reducing operational f
 
 ---
 
-### 💻 Core Technology Stack
+### 💻 The Core Technology Stack
 
-* **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-* **AI/ML Architecture:** TensorFlow, PyTorch, LangChain, LangGraph, CrewAI, AutoGen, RAG, Retell AI.
-* **Backend & Cloud:** Node.js, FastAPI, Django, Flask, AWS, Supabase, Firebase, Docker.
-* **Frontend:** React, Next.js, Flutter, React Native.
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / Machine Learning Architecture:**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge) 
+
+**Backend, Cloud & Hardware:**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-### 🌐 Network & Presence
+### 🌐 Network & Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-sai.fhaida.com-000000?style=for-the-badge)](https://sai.fhaida.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samminga) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammingasainath) 
 
 <div align="center">
