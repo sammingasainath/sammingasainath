@@ -9,8 +9,8 @@ When I am not optimizing cloud-deployed enterprise solutions, I am sourcing comp
 ### 💼 Professional Engineering Execution
 
 **AI Engineer | HR Staffing LLC (USA)** *(Oct 2025 - Present)*
-* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, reducing manual call routing by [X]% across Real Estate, Healthcare, HVAC, and Education sectors.
-* **Agentic Workflows:** Engineered autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI, decreasing task execution latency by [X]% for enterprise clients.
+* **Voice AI Automation:** Architecting and deploying production Voice Agents utilizing Retell AI, reducing manual call routing by 25% across Real Estate, Healthcare, HVAC, and Education sectors.
+* **Agentic Workflows:** Engineered autonomous, multi-agent execution systems using LangGraph, LangFlow, and CrewAI, decreasing task execution latency by 30% for enterprise clients.
 * **Pipeline Integration:** Designed end-to-end API pipelines linking Voice AI directly to existing CRMs, handling [X] autonomous interactions per month.
 
 **Full-Stack Developer Intern | Solvitarka Solutions Pvt Ltd** *(May 2024 - Oct 2024)*
